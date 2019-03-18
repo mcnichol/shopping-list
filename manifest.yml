@@ -1,0 +1,4 @@
+---
+applications:
+  - name: shopping-list
+    path: build/libs/shopping-list-0.0.1-SNAPSHOT.jar 
